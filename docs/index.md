@@ -1,0 +1,80 @@
+# Law Firm Website RFP Template
+
+<p class="by">Copy these questions into an email or a document and send the same list to every agency you are considering. By <a href="https://legalwebagency.com/">Legal Web Agency</a>.</p>
+<p>Comparing website proposals is hard when every agency describes its work differently. A short request for proposal (RFP) forces like-for-like answers. Below is the template we suggest firms send, including to us. Each section links to a guide that explains what a good answer looks like.</p>
+
+<h2>Part 1: About our firm (you fill this in)</h2>
+<ul>
+<li>Practice areas, ranked by the fees they bring in.</li>
+<li>Cities and counties we serve, and languages our clients speak.</li>
+<li>Our current website address, and what we think is wrong with it.</li>
+<li>How new clients reach us today (calls, forms, referrals, ads).</li>
+<li>Our budget range and the date we need the site live.</li>
+</ul>
+
+<h2>Part 2: Questions for the agency</h2>
+<h3>Experience and process</h3>
+<ol>
+<li>Which law firm sites have you built in the last two years, and can we speak to one of those firms?</li>
+<li>Who will actually do the design, writing and development? Is any of it outsourced?</li>
+<li>What are the steps from kickoff to launch, and what do you need from us at each step?</li>
+</ol>
+<p>Background: <a href="https://legalwebagency.com/how-to-choose-a-web-designer-for-your-law-firm/">how to choose a web designer for your law firm</a>.</p>
+
+<h3>Ownership</h3>
+<ol start="4">
+<li>Will the domain, hosting, website files and analytics accounts be registered in our firm's name?</li>
+<li>If we stop working together, what do we keep, and how is the site handed over?</li>
+<li>Which platform will you build on, and why? Is it a custom design or a template?</li>
+</ol>
+<p>Background: <a href="https://legalwebagency.com/law-firm-website-hosting/">law firm website hosting</a>, <a href="https://legalwebagency.com/custom-law-firm-website-design/">custom law firm website design</a> and <a href="https://legalwebagency.com/law-firm-website-builder/">law firm website builders</a>.</p>
+
+<h3>Compliance</h3>
+<ol start="7">
+<li>How do you check page content against our state's attorney advertising rules?</li>
+<li>Which disclaimers will the site carry, and where?</li>
+<li>How do you handle accessibility (WCAG), and do you use overlay widgets?</li>
+</ol>
+<p>Background: <a href="https://legalwebagency.com/attorney-advertising-rules-by-state-law-firm-website/">attorney advertising rules by state</a> and <a href="https://legalwebagency.com/law-firm-website-ada-compliant/">is your law firm website ADA compliant?</a></p>
+
+<h3>Content</h3>
+<ol start="10">
+<li>Who writes the pages? Will each practice area get its own page?</li>
+<li>Will you review our existing content before rewriting it?</li>
+</ol>
+<p>Background: <a href="https://legalwebagency.com/law-firm-website-content-writing/">law firm website content writing</a> and <a href="https://legalwebagency.com/law-firm-website-content-audit/">law firm website content audit</a>.</p>
+
+<h3>Search and AI visibility</h3>
+<ol start="12">
+<li>If we are redesigning, how will you protect our current rankings (redirect map, URL plan)?</li>
+<li>What structured data (schema) will you add for the firm and attorneys?</li>
+<li>How will the site be prepared for Google AI Overviews and AI assistants?</li>
+<li>Is ongoing SEO part of this proposal or separate? What does it cost per month?</li>
+</ol>
+<p>Background: <a href="https://legalwebagency.com/lawyer-website-redesign-without-losing-rankings/">redesigning without losing rankings</a>, <a href="https://legalwebagency.com/schema-markup-for-law-firms/">schema markup for law firms</a>, <a href="https://legalwebagency.com/google-ai-overviews-for-law-firms/">Google AI Overviews for law firms</a> and <a href="https://legalwebagency.com/law-firm-seo-cost-per-month/">law firm SEO cost per month</a>.</p>
+
+<h3>Speed, leads and tracking</h3>
+<ol start="16">
+<li>What mobile loading targets do you commit to?</li>
+<li>How will calls and form submissions be tracked and reported to us?</li>
+<li>What will the contact and intake forms ask?</li>
+</ol>
+<p>Background: <a href="https://legalwebagency.com/core-web-vitals-law-firm-websites/">Core Web Vitals on 14 law firm sites</a>, <a href="https://legalwebagency.com/law-firm-website-conversion-tracking/">conversion tracking for law firms</a> and the <a href="https://legalwebagency.com/law-firm-intake-form-template/">law firm intake form template</a>.</p>
+
+<h3>After launch and price</h3>
+<ol start="19">
+<li>What does monthly maintenance include (updates, backups, security, form tests)?</li>
+<li>Please give a fixed price for the build, a separate monthly price for maintenance and SEO, and list anything not included.</li>
+</ol>
+<p>Background: <a href="https://legalwebagency.com/law-firm-website-maintenance/">law firm website maintenance</a> and <a href="https://legalwebagency.com/law-firm-website-pricing/">law firm website pricing</a>.</p>
+
+<h2>Part 3: How to compare the answers</h2>
+<div class="note">
+<p>Red flags: the agency keeps the domain or hosting in its own name; no plan for redirects; "guaranteed #1 rankings"; vague monthly fees; no answer on advertising rules.</p>
+<p>Good signs: specific law firm examples, a written page plan, clear ownership, and separate, itemized prices.</p>
+</div>
+<p>If you are also comparing SEO providers, see our notes on <a href="https://legalwebagency.com/law-firm-seo-consultant/">working with a law firm SEO consultant</a> and <a href="https://legalwebagency.com/law-firm-marketing-agency/">choosing a law firm marketing agency</a>.</p>
+
+<h2>Before you send the RFP</h2>
+<p>Run your current site through our free <a href="https://legalwebagency.com/free-website-scan/">law firm website scan</a> and attach the result. It flags common bar advertising wording problems and AI and search visibility gaps, which gives every agency the same starting point.</p>
+<p class="by">Published by Legal Web Agency, a website design and SEO studio for law firms. General information, not legal advice.</p>

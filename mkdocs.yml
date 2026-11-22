@@ -1,0 +1,8 @@
+site_name: Law Firm Website RFP Template
+site_description: Free request-for-proposal template for law firms hiring a website or SEO agency, by Legal Web Agency.
+site_author: Legal Web Agency
+site_url: https://law-firm-website-rfp-template.readthedocs.io/
+theme:
+  name: readthedocs
+nav:
+  - RFP template: index.md
